@@ -25,7 +25,7 @@ Lagrange is our flagship product - an AI-powered coding companion that transform
 
 ## 🔗 Connect With Us
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FzndMpbhDd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Us-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/orangecat-technologies-pvt-ltd/)
 [![Facebook](https://img.shields.io/badge/Facebook-Like%20Us-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61566877884409)
 [![GitHub](https://img.shields.io/badge/GitHub-Star%20Us-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OrangeCat-Technologies)
