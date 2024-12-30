@@ -1,5 +1,3 @@
-(README.md)
-code:
 # 🐱 OrangeCat Technologies
 
 > Changing the World, one token at a time.
