@@ -3,7 +3,7 @@
 > Changing the World, one token at a time.
 
 <div align="center">
-  <img src="assets/images/logo.jpeg" alt="OrangeCat Logo" width="120" height="120">
+  <img src="assets/images/logo.jpeg" alt="OrangeCat Logo">
 </div>
 
 ## 🚀 About Us
