@@ -8,7 +8,7 @@
 
 ## 🚀 About Us
 
-At OrangeCat, we create powerful software designed to expand horizons. As a user-centric company based in Noida, India, we focus on leveraging the most advanced technologies to solve real-world problems that truly matter.
+At OrangeCat, we create powerful software designed to expand horizons. As a user-centric company based in Noida, India, we focus on leveraging the most advanced technologies to solve real-world problems that truly matter. Check out our website [here](www.orangecat.ai)
 
 ## 🔮 Lagrange
 
